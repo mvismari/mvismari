@@ -1,7 +1,7 @@
-### <?= 'Olá :)'; ?> 👋
+### &lt;?= 'Olá!'; ?> 👋
 
 ## Sobre mim
-Meu nome é Marlon Vismari e comecei a desenvolver com 13 anos de idade (PHP). Profissionalmente desde os 18. Como todo desenvolvedor, apaixonado por código e café.
+Meu nome é Marlon Vismari e comecei a desenvolver com 13 anos de idade (PHP). Profissionalmente desde os 18. Assim como todos desenvolvedores, apaixonado por café e código.
 
 ## Projetos
 Todos os projetos que desenvolvi ao longo da minha carreiga, tenho muito orgulho! Alguns, entretanto, tenho um carinho especial e você entenderá :)
