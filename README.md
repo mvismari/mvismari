@@ -4,7 +4,7 @@
 Meu nome é Marlon Vismari e comecei a desenvolver com 13 anos de idade (PHP). Profissionalmente desde os 18. Assim como todos desenvolvedores, apaixonado por café e código.
 
 ## Projetos
-Todos os projetos que desenvolvi ao longo da minha carreiga, tenho muito orgulho! Alguns, entretanto, tenho um carinho especial e você entenderá :)
+Todos os projetos que desenvolvi ao longo da minha carreira, tenho muito orgulho! Alguns, entretanto, tenho um carinho especial e você entenderá :)
 
 ### 1. Monitoramento de Raios para Vale
 O sistema consiste em monitorar a queda de raios ao redor (até 10km) das minas da Vale. Com isso os trabalhadores necessitam parar de trabalhar para ficarem seguros;
@@ -24,6 +24,8 @@ No lançamento do Ultrabook 2 em 1, fui responsável pelo desenvolvimento das AP
 ### 6. OpenCloud - B2W
 Criação de uma plataforma para gerenciamento de servidores, roteadores, balanceadores de cargas, etc., para uso da B2W (Americanas, Submarino, etc.).
 
+### 7. Infracommerce - Compra-Agora / Middleware
+Desenvolvimento e manutenção de um dos maiores e-commerces varejista B2B do Brasil.
 
 <!--
 **mvismari/mvismari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
