@@ -27,6 +27,9 @@ Criação de uma plataforma para gerenciamento de servidores, roteadores, balanc
 ### 7. Infracommerce - Compra-Agora / Middleware
 Desenvolvimento e manutenção de um dos maiores e-commerces varejista B2B do Brasil.
 
+## Objetivos
+Neste momento estou buscando a especialização em VUE e NodeJs (NestJS).
+
 <!--
 **mvismari/mvismari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
