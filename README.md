@@ -6,6 +6,11 @@ Meu nome é Marlon Vismari e comecei a desenvolver com 13 anos de idade (PHP). P
 ## Projetos
 Todos os projetos que desenvolvi ao longo da minha carreira, tenho muito orgulho! Alguns, entretanto, tenho um carinho especial e você entenderá :)
 
+Em meu repositório tenho diversos projetos privados em PHP, Java, C# e Node. 
+
+<img width="964" alt="image" src="https://github.com/user-attachments/assets/c3ccec8c-30f6-458d-9a5d-b06dac80aa9d" />
+
+
 ### 1. Monitoramento de Raios para Vale
 O sistema consiste em monitorar a queda de raios ao redor (até 10km) das minas da Vale. Com isso os trabalhadores necessitam parar de trabalhar para ficarem seguros;
 
@@ -27,8 +32,11 @@ Criação de uma plataforma para gerenciamento de servidores, roteadores, balanc
 ### 7. Infracommerce - Compra-Agora / Middleware
 Desenvolvimento e manutenção de um dos maiores e-commerces varejista B2B do Brasil.
 
+### 8. Raia Drogasil - Marketplace
+Desenvolvimento e manutenção do marketplace Raia/Drogasil, incluindo monolitos, legados e Microserviços.
+
 ## Objetivos
-Neste momento estou buscando a especialização em VUE e NodeJs (NestJS).
+Neste momento estou buscando a especialização em Engenharia de Dados (Sou certificado google) e quero mudar a stack principal para Java.
 
 <!--
 **mvismari/mvismari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
