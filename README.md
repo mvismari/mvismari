@@ -8,7 +8,8 @@ Todos os projetos que desenvolvi ao longo da minha carreira, tenho muito orgulho
 
 Em meu repositório tenho diversos projetos privados em PHP, Java, C# e Node. 
 
-<img width="964" alt="image" src="https://github.com/user-attachments/assets/c3ccec8c-30f6-458d-9a5d-b06dac80aa9d" />
+<img width="601" alt="image" src="https://github.com/user-attachments/assets/f3961367-7668-4556-a5a6-49fc302bec75" />
+
 
 
 ### 1. Monitoramento de Raios para Vale
